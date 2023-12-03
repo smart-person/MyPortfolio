@@ -35,9 +35,9 @@ const Contact = () => {
         {
           // object with some options
           from_name: form.name,
-          to_name: "James",
+          to_name: "Alie",
           from_email: form.email,
-          to_email: "jamessmith131377@gmail.com",
+          to_email: "aliekutter0827@gmail.com",
           message: form.message,
         },
         "A5gY2Ny_0Axz-Tw5F" // public_key in emailjs
@@ -89,12 +89,12 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={email} className="w-1/6" />
             <div>
-              <p className="text-2xl">James Smith</p>
+              <p className="text-2xl">Alie kutter</p>
               <a
-                onClick={() => copyToClipboard("jamessmith131377@gmail.com")}
+                onClick={() => copyToClipboard("Aliekutter0827@gmail.com")}
                 className="underline cursor-pointer"
               >
-                jamessmith131377@gmail.com
+                Aliekutter0827@gmail.com
               </a>
             </div>
           </div>
@@ -105,7 +105,7 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={skype} className="w-1/6" />
             <div>
-              <p className="text-2xl">James Smith</p>
+              <p className="text-2xl">Alie kutter</p>
               <a
                 onClick={() => copyToClipboard("live:.cid.a42da663aacfa628")}
                 className="underline cursor-pointer"
@@ -121,12 +121,12 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={discord} className="w-1/6" />
             <div>
-              <p className="text-2xl">JamesSmith</p>
+              <p className="text-2xl">Aliekutter</p>
               <a
-                onClick={() => copyToClipboard("JamesSmith0615_85393")}
+                onClick={() => copyToClipboard("Aliekutter0615_85393")}
                 className="underline cursor-pointer"
               >
-                JamesSmith0615_85393
+                Aliekutter0615_85393
               </a>
             </div>
           </div>

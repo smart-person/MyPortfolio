@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Hello,Hellow, I'm James. I'm a full-stack developer with a passion for creating
+      Hello,Hellow, I'm Alie. I'm a full-stack developer with a passion for creating
       beautiful, functional, and user-friendly websites.
         ✅ Full-stack development with the ability to take projects independently from concept to market.
         ✅ Pixel perfect design implementations (commonly from Figma/Sketch/XD/Webflow/PSD).
