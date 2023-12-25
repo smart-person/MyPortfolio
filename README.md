@@ -4,7 +4,7 @@
 ![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
 
 ## Introduction
-Full-Stack Developer - WordPress | Next.js | React
+Full-Stack Developer - WordPress | Next.js | React | Python | Scraping | Bot Development
 
 For 8 years, I've been delivering top-tier websites and applications across web and mobile realms.
 
