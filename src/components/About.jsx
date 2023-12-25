@@ -47,12 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Hello,Hellow, I'm Alie. I'm a full-stack developer with a passion for creating
-      beautiful, functional, and user-friendly websites.
-        ✅ Full-stack development with the ability to take projects independently from concept to market.
-        ✅ Pixel perfect design implementations (commonly from Figma/Sketch/XD/Webflow/PSD).
-        ✅ Excel in the area of project management and can assist in the formation of optimal workflows.
-        ✅ A long-term partner whom you can always rely on.
+      🏅 Enough Experience | ⚡ Quick Responses | 📈 High Job Success Rate | 📅 Available Weekdays & Weekends | 🌐 Always Available | 🤐 NDAs Ready | 📞 Open for Daily Meetings/Zoom Calls | 🕒 Full-Time Freelancer | ⌛️ Flexible Across Time Zones
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
