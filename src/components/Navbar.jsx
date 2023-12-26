@@ -49,7 +49,7 @@ const Navbar = () => {
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             alie&nbsp;
-            <span className="sm:block hidden"> | Full Stack Web Developer</span>
+            <span className="sm:block hidden"> | Full Stack Developer</span>
           </p>
         </Link>
 
