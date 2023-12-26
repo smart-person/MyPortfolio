@@ -89,12 +89,12 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={email} className="w-1/6" />
             <div>
-              <p className="text-2xl">Alie kutter</p>
+              <p className="text-2xl">smart-person</p>
               <a
-                onClick={() => copyToClipboard("Aliekutter0827@gmail.com")}
+                onClick={() => copyToClipboard("smart09051025@gmail.com")}
                 className="underline cursor-pointer"
               >
-                Aliekutter0827@gmail.com
+                smart09051025@gmail.com
               </a>
             </div>
           </div>
@@ -105,7 +105,7 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={skype} className="w-1/6" />
             <div>
-              <p className="text-2xl">Alie kutter</p>
+              <p className="text-2xl">smart-person</p>
               <a
                 onClick={() => copyToClipboard("live:.cid.a42da663aacfa628")}
                 className="underline cursor-pointer"
@@ -121,12 +121,12 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={discord} className="w-1/6" />
             <div>
-              <p className="text-2xl">Aliekutter</p>
+              <p className="text-2xl">smart</p>
               <a
-                onClick={() => copyToClipboard("Aliekutter0615_85393")}
+                onClick={() => copyToClipboard("smart_person09051025")}
                 className="underline cursor-pointer"
               >
-                Aliekutter0615_85393
+                smart_person09051025
               </a>
             </div>
           </div>
